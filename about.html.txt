@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>About – Akhidemics</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+<h1>Akhidemics</h1>
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="articles.html">Articles</a>
+<a href="pdfs.html">PDFs</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+
+<main>
+<h2>About</h2>
+<p>
+Akhidemics is maintained by <strong>MuhammadAli ibn Gulnawaz</strong>.
+This site serves as a repository for independent writing, academic-style
+articles, and long-form PDF works.
+</p>
+</main>
+
+
+<footer>
+<p>© Akhidemics</p>
+</footer>
+</body>
+</html>

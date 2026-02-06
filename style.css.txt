@@ -1,0 +1,72 @@
+body {
+padding: 1.5rem;
+text-align: center;
+}
+
+
+header h1 {
+margin: 0;
+font-size: 2.2rem;
+}
+
+
+.subtitle {
+font-size: 0.95rem;
+color: #555;
+}
+
+
+nav {
+margin-top: 1rem;
+}
+
+
+nav a {
+margin: 0 0.6rem;
+text-decoration: none;
+color: #000;
+}
+
+
+nav a:hover {
+text-decoration: underline;
+}
+
+
+main {
+max-width: 800px;
+margin: 3rem auto;
+padding: 0 1rem;
+}
+
+
+h2 {
+border-bottom: 1px solid #ddd;
+padding-bottom: 0.3rem;
+}
+
+
+.list {
+list-style: none;
+padding: 0;
+}
+
+
+.list li {
+margin-bottom: 1.5rem;
+}
+
+
+.author {
+font-size: 0.85rem;
+color: #555;
+}
+
+
+footer {
+border-top: 1px solid #ddd;
+text-align: center;
+padding: 1rem;
+font-size: 0.8rem;
+color: #555;
+}
